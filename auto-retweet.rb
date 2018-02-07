@@ -24,7 +24,7 @@ browser.form(class: "LoginForm").submit
 
 sleep(3)
 
-# 100.times do |i|
+ 100.times do |i|
 
 #   #
 #  browser.scroll.to :bottom
